@@ -71,8 +71,8 @@ Explore my repositories to see my development journey and projects.
 
 ### 🤝 Connect With Me
 
-- **Portfolio:** https://karthikjaya-portfolio.netlify.app/
-- **LinkedIn:** https://www.linkedin.com/in/karnam-venkata-jaya-karthik-098800404/
+- **Portfolio:** https://karnam-venkata-jaya-karthik.netlify.app/
+- **LinkedIn:** https://www.linkedin.com/in/karnam-venkata-jaya-karthik/
 - **GitHub:** https://github.com/Karthik04-karanam
 
 ---
