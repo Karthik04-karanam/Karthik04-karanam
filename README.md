@@ -4,9 +4,9 @@
 
 Welcome to my GitHub profile! I'm a Computer Science Engineering diploma student passionate about building practical software solutions using Python, web technologies, APIs, and AI.
 
-🌐 **Portfolio:** https://karthikjaya-portfolio.netlify.app/
+🌐 **Portfolio:** https://karnam-venkata-jaya-karthik.netlify.app/
 
-💼 **LinkedIn:** https://www.linkedin.com/in/karnam-venkata-jaya-karthik-098800404/
+💼 **LinkedIn:** https://www.linkedin.com/in/karnam-venkata-jaya-karthik/
 
 🐙 **GitHub:** https://github.com/Karthik04-karanam
 
